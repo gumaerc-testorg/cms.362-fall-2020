@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Description of assignments and links to main projects for CMS.362 Civic
+  Media Codesign Studio.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -26,12 +28,12 @@ In addition to their core project, participants in this course will engage with 
 Project
 -------
 
-The [studio project]({{< baseurl >}}/pages/assignments/project) is done in groups. Its deliverables include a project proposal, final presentation, and design book. 
+The {{% resource_link eb277382-c0b5-1931-58d9-018fd183f3ac "studio project" %}} is done in groups. Its deliverables include a project proposal, final presentation, and design book. 
 
 Journal
 -------
 
-Over the course of the semester, students are expected to keep a journal in which they respond to the readings and the [journal prompts]({{< baseurl >}}/pages/assignments/journal).
+Over the course of the semester, students are expected to keep a journal in which they respond to the readings and the {{% resource_link 7834c7cc-1668-8a51-21cf-5399e937685e "journal prompts" %}}.
 
 Activities
 ----------
@@ -44,7 +46,7 @@ Interview a community mentor in the class. Explore how and why they do what they
 
 With your group, and factoring in input from interviews, answer the questions in the problem definition worksheet. Prepare a 5–7 minute presentation to share in class.
 
-[Problem Definition Worksheet (PDF)]({{< baseurl >}}/resources/mitcms_362f20_problemdefinition-1) ([DOCX]({{< baseurl >}}/resources/mitcms_362f20_problemdefinition))
+{{% resource_link 407dddbf-8594-d720-7a94-73d61d20b216 "Problem Definition Worksheet (PDF)" %}} ({{% resource_link 7814288f-3d7c-4117-74a4-7edce32b7258 "DOCX" %}})
 
 ### Research Phase Results
 

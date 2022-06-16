@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Weekly prompt for semester-long journal assignment in CMS.362 Civic Media
+  Codesign Studio.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

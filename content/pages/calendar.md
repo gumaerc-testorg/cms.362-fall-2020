@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Calendar including class topics, guest lectures, and key dates for CMS.362
+  Civic Media Codesign Studio.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

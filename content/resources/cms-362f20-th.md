@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cms-362-civic-media-codesign-studio-fall-2020/bdc35d839c623b7957449cc511ef0903_cms-362f20-th.jpg
+file: /courses/cms-362-civic-media-codesign-studio-fall-2020/bdc35d839c623b7957449cc511ef0903_cms-362f20-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: In this course, participants work with community partners to develop civic

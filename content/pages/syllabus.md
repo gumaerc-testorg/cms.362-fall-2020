@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Course description, course goals, and grading for CMS.362 Civic Media
+  Codesign Studio.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

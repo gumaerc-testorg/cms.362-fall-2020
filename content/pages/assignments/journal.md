@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: Weekly prompt for semester-long journal assignment in CMS.362 Civic Media
+  Codesign Studio.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: de4a831e-a8d7-ff9f-dd82-f4a291c25158
 title: Journal
 uid: 7834c7cc-1668-8a51-21cf-5399e937685e

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Weekly readings for CMS.362 Civic Media Codesign Studio.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: addd8abd-f706-acd8-5296-afd81db57e69
 ---

@@ -5,6 +5,7 @@ file: /courses/cms-362-civic-media-codesign-studio-fall-2020/7814288f3d7c411774a
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

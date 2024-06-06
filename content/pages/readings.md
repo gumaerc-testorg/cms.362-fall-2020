@@ -13,12 +13,12 @@ Week 1: Icebreakers, Introduction to the Course and Way of Working
 
 Tronto, Joan. _Who Cares?: How to Reshape a Democratic Politics_. Cornell University Press, 2015. ISBN: 9781501702747.
 
-Engster, Daniel. "{{% resource_link "ca2edb8e-3f1a-4eb5-91f7-0802ebd4bde6" "A Public Ethics of Care for Policy Implementation" %}}." _American Journal of Political Science_ 64, no. 3 (2020): 621–633.
+Engster, Daniel. "[A Public Ethics of Care for Policy Implementation](https://doi.org/10.1111/ajps.12487)." _American Journal of Political Science_ 64, no. 3 (2020): 621–633.
 
 Week 2: Approaches to Design
 ----------------------------
 
-{{% resource_link "c50c48bc-33ce-4787-88d5-bd94a9af0960" "Design Kit Website" %}}
+[Design Kit Website](https://www.designkit.org/methods)
 
 Winner, Langdon. "Do Artifacts Have Politics?" _Daedalus_ (1980): 121–136.
 
@@ -31,29 +31,29 @@ Crabtree, Andrew, Mark Rouncefield, and Peter Tolmie. "Design Ethnography in a N
 Week 3: Participatory Design (PD) and Codesign
 ----------------------------------------------
 
-Cizek, Katerina, William Uricchio, et al. "{{% resource_link "45e2a302-0546-4d7a-bc25-0a3a65b83757" "Part 1: ‘We Are Here’: Starting Points in Co-Creation" %}}." In _Collective Wisdom_. MIT Press, 2019. 
+Cizek, Katerina, William Uricchio, et al. "[Part 1: ‘We Are Here’: Starting Points in Co-Creation](https://wip.mitpress.mit.edu/pub/collective-wisdom-part-1/release/3)." In _Collective Wisdom_. MIT Press, 2019. 
 
-Costanza-Chock, Sasha. "{{% resource_link "74eac78d-4401-4a44-b589-1f934b805176" "Design Practices: 'Nothing about Us Without Us" %}}.'" In _Design Justice_ (1st ed.). MIT Press, 2020. ISBN: 9780262043458.
+Costanza-Chock, Sasha. "[Design Practices: 'Nothing about Us Without Us](https://design-justice.pubpub.org/pub/cfohnud7/release/2).'" In _Design Justice_ (1st ed.). MIT Press, 2020. ISBN: 9780262043458.
 
 Gordon, Eric, and Gabriel Mugar. _Meaningful Inefficiencies: Civic Design in an Age of Digital Expediency_. Oxford University Press, 2020. Introduction and Chapter 3. ISBN: 9780190870133.
 
-Staton, Brooke, Julia Kramer, Pierce Gordon, and Lauren Valdez. "{{% resource_link "045a3560-6d49-487f-9ef8-ae5e34fafae4" "From the Technical to the Political: Democratizing Design Thinking" %}}." _contested\_cities_, Madrid (2016).
+Staton, Brooke, Julia Kramer, Pierce Gordon, and Lauren Valdez. "[From the Technical to the Political: Democratizing Design Thinking](http://contested-cities.net/working-papers/2016/from-the-technical-to-the-political-democratizing-design-thinking/)." _contested\_cities_, Madrid (2016).
 
 Week 4: PD in the Public Sector
 -------------------------------
 
 Brandsen, Taco, Trui Steen, and Bram Verschuere. "Definitions of Coproduction and CoCreation." In _Co-Production and Co-Creation: Engaging Citizens in Public Services_. Taylor & Francis, 2018. ISBN: 9781351792578.
 
-Blomkamp, Emma. "{{% resource_link "a37c286d-039a-45e7-b2fc-558f62c21854" "The Promise of Co‐Design for Public Policy" %}}." _Australian Journal of Public Administration_ 77, no. 4 (2018): 729–743.
+Blomkamp, Emma. "[The Promise of Co‐Design for Public Policy](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8500.12310)." _Australian Journal of Public Administration_ 77, no. 4 (2018): 729–743.
 
-Gouillart, Francis, and Tina Hallett. "{{% resource_link "16d77c68-a6c1-4714-bc21-e4fc2343a73e" "Co-Creation in Government" %}}." _Stanford Social Innovation Review_, 2015.
+Gouillart, Francis, and Tina Hallett. "[Co-Creation in Government](https://ssir.org/articles/entry/co_creation_in_government)." _Stanford Social Innovation Review_, 2015.
 
-Huybrechts, Liesbeth, Henric Benesch, and Jon Geib. "{{% resource_link "ff0950fe-8925-40c7-880b-ec8332c86cc0" "Institutioning: Participatory Design, Co-Design and the Public Realm" %}}." _CoDesign_ 13, no. 3 (2017): 148–159.
+Huybrechts, Liesbeth, Henric Benesch, and Jon Geib. "[Institutioning: Participatory Design, Co-Design and the Public Realm](https://doi.org/10.1080/15710882.2017.1355006)." _CoDesign_ 13, no. 3 (2017): 148–159.
 
 Week 5: Creativity and Scoping
 ------------------------------
 
-Chou, Yung‐Yi Juliet, and Barbara Tversky. "{{% resource_link "f588764b-00e0-4c85-bb84-bb34f5d3a13c" "Changing Perspective: Building Creative Mindsets" %}}." _Cognitive Science 44_, no. 4 (2020): e12820.
+Chou, Yung‐Yi Juliet, and Barbara Tversky. "[Changing Perspective: Building Creative Mindsets](https://doi.org/10.1111/cogs.12820)." _Cognitive Science 44_, no. 4 (2020): e12820.
 
 Dunne, Anthony, and Fiona Raby. _Speculative Everything: Design, Fiction, and Social Dreaming_. MIT Press, 2013. ISBN: 9780262019842.
 
@@ -62,14 +62,14 @@ Week 6: Value Alignment and Partnership Agreements
 
 Friedman, Batya, and David G. Hendry. _Value Sensitive Design: Shaping Technology with Moral Imagination_. MIT Press, 2019. ISBN: 9780262039536.
 
-Bardzell, Shaowen. "{{% resource_link "3954e822-61be-40f6-8294-d2b1cc257f1c" "Feminist HCI: Taking Stock and Outlining an Agenda for Design" %}}." In _P__roceedings of the SIGCHI Conference on Human Factors in Computing Systems_, pp. 1301–1310. 2010.
+Bardzell, Shaowen. "[Feminist HCI: Taking Stock and Outlining an Agenda for Design](https://doi.org/10.1145/1753326.1753521)." In _P__roceedings of the SIGCHI Conference on Human Factors in Computing Systems_, pp. 1301–1310. 2010.
 
-Racin, Liat and Eric Gordon. "{{% resource_link "9b915f63-e130-41cf-9103-cd234390b2fa" "Community Academic Research Partnerships in Digital Contexts: Opportunities, Limitations, and New Ways to Promote Mutual Benefit" %}}." _The Living Library_, 2018.
+Racin, Liat and Eric Gordon. "[Community Academic Research Partnerships in Digital Contexts: Opportunities, Limitations, and New Ways to Promote Mutual Benefit](https://thelivinglib.org/community-academic-research-partnership-in-digital-contexts-opportunities-limitations-and-new-ways-to-promote-mutual-benefit/)." _The Living Library_, 2018.
 
 Week 7: Working with Data
 -------------------------
 
-Weber, Nicholas M., Carole L. Pamer, and Bree Norlander. "{{% resource_link "66b56137-8648-473a-961c-68507488b4d4" "Advancing Open Data: Aligning Education with Public Sector Data Challenges" %}}." _Proceedings of the Association for Information Science and Technology_ 55, no. 1 (2018): 927–928.
+Weber, Nicholas M., Carole L. Pamer, and Bree Norlander. "[Advancing Open Data: Aligning Education with Public Sector Data Challenges](https://doi.org/10.1002/pra2.2018.14505501179)." _Proceedings of the Association for Information Science and Technology_ 55, no. 1 (2018): 927–928.
 
 D'Ignazio, Catherine, and Lauren F. Klein. _Data Feminism_. MIT Press, 2020. Introduction and Chapter 1. ISBN: 9780262044004.
 
@@ -85,7 +85,7 @@ Yates, Brian, and Mita Marra. "Introduction: Social Return on Investment (SROI).
 
 "Qualitative Research Practice Guide." _The Code for America,_ 2020.
 
-Drain, Andrew, and Elizabeth B-N. Sanders. "{{% resource_link "b114e6ef-1a41-4692-afb1-372b904ed242" "A Collaboration System Model for Planning and Evaluating Participatory Design Projects" %}}." _International Journal of Design_ 13, no. 3 (2019): 39–52.
+Drain, Andrew, and Elizabeth B-N. Sanders. "[A Collaboration System Model for Planning and Evaluating Participatory Design Projects](http://ijdesign.org/index.php/IJDesign/article/view/3486)." _International Journal of Design_ 13, no. 3 (2019): 39–52.
 
 Week 10: Making
 ---------------

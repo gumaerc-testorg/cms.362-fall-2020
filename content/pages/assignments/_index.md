@@ -40,7 +40,7 @@ Activities
 
 ### Stakeholder Interview
 
-Interview a community mentor in the class. Explore how and why they do what they do. Document. If the interview is conducted over Zoom, it might be productive to record it, so you don't have to worry about taking notes during the interview (and you can pay attention to the person with whom you're talking). Create 2–3 slides that contain summary and high level insights from {{% resource_link "3d389ca3-fb43-4cca-94b9-cf981d79a0f6" "the interview" %}}. This {{% resource_link "2f37d756-0eee-486e-bc4a-dd719e6f7200" "guide to empathy interviews" %}} is useful.
+Interview a community mentor in the class. Explore how and why they do what they do. Document. If the interview is conducted over Zoom, it might be productive to record it, so you don't have to worry about taking notes during the interview (and you can pay attention to the person with whom you're talking). Create 2–3 slides that contain summary and high level insights from [the interview](https://www.designkit.org/methods/interview). This [guide to empathy interviews](https://webdesign.tutsplus.com/articles/techniques-of-empathy-interviews-in-design-thinking--cms-31219) is useful.
 
 ### Problem Definition Worksheet
 

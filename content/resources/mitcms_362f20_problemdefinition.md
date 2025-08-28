@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/cms-362-civic-media-codesign-studio-fall-2020/7814288f3d7c411774a47edce32b7258_MITCMS_362F20_problemdefinition.docx
+file: /ol-ocw-studio-app/courses/cms-362-civic-media-codesign-studio-fall-2020/7814288f3d7c411774a47edce32b7258_MITCMS_362F20_problemdefinition.docx
 file_size: 25223
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 learning_resource_types:

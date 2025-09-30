@@ -20,7 +20,7 @@ None
 
 The Civic Media Codesign Studio is a project-based studio course in collaborative design of civic media. Students work with a range of organizations to create civic media projects grounded in real-world community needs. It covers theory and practice of codesign, including methods for community participation in iterative stages of project ideation, design, prototyping, testing, launch, and stewardship. This semester, the course will focus on building systems of collaboration between municipal government and local care networks to facilitate effective co-reation of policy. 
 
-Projects from this course has spun off into the [People's Collaborative Governance Network (archived)](https://engagementlab.work/research/projects/peoples-collaborative-governance-network-pcgn/#).
+Projects from this course has spun off into the {{% resource_link "6331280e-c87d-49f1-8f9c-5dae7c129a38" "People's Collaborative Governance Network (archived)" %}}.
 
 ## Course Goals
 

@@ -16,7 +16,7 @@ The Civic Media Codesign Studio provides an opportunity for students interested 
 
 Civic Media Codesign Studio approaches partners not as (solely) consumers, test subjects, or objects of study, and instead imagines them as co-designers and coauthors of shared knowledge, technologies, narratives, and social practices. Our goal is twofold: to develop an understanding of the ways that media and technology design processes often replicate existing power inequalities, while at the same time, moving beyond critique to travel as far down the path of community co-creation as possible, within the constraints of any given project.
 
-Many projects continue at the {{% resource_link "6331280e-c87d-49f1-8f9c-5dae7c129a38" "People's Collaborative Governance Network (archived)" %}}. 
+Many projects continue at the [People's Collaborative Governance Network (archived)](https://engagementlab.work/research/projects/peoples-collaborative-governance-network-pcgn/#). 
 
 ## Project Proposal
 

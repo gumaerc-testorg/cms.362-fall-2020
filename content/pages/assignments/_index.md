@@ -36,7 +36,7 @@ Over the course of the semester, students are expected to keep a journal in whic
 
 ### Stakeholder Interview
 
-Interview a community mentor in the class. Explore how and why they do what they do. Document. If the interview is conducted over Zoom, it might be productive to record it, so you don't have to worry about taking notes during the interview (and you can pay attention to the person with whom you're talking). Create 2–3 slides that contain summary and high level insights from {{% resource_link "5bdeb8e2-4371-426c-8e96-85d2274180b7" "the interview" %}}. This {{% resource_link "e330767c-e7e7-48a1-bba2-967131c695eb" "guide to empathy interviews" %}} is useful.
+Interview a community mentor in the class. Explore how and why they do what they do. Document. If the interview is conducted over Zoom, it might be productive to record it, so you don't have to worry about taking notes during the interview (and you can pay attention to the person with whom you're talking). Create 2–3 slides that contain summary and high level insights from [the interview](https://www.designkit.org/methods/interview.html). This [guide to empathy interviews](https://webdesign.tutsplus.com/articles/techniques-of-empathy-interviews-in-design-thinking--cms-31219) is useful.
 
 ### Problem Definition Worksheet
 
